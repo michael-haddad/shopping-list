@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>abc</name>
+        <parent>0896361607679010a913f0269c1ed053</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-01 23:10:35</sys_created_on>
+        <sys_id>ce73235207e79010a913f0269c1ed057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abc</sys_name>
+        <sys_package display_value="Shopping List" source="x_140269_shopping">0883fe5207679010a913f0269c1ed08f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0883fe5207679010a913f0269c1ed08f</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_ce73235207e79010a913f0269c1ed057</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-01 23:10:35</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">0883fe5207679010a913f0269c1ed08f</application>
+        <file_path/>
+        <instance_id>50aedad5db467308b847ac44d49619f8</instance_id>
+        <instance_name>dev87196</instance_name>
+        <name>sys_sg_item_parameter_ce73235207e79010a913f0269c1ed057</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>abc</name><parent>0896361607679010a913f0269c1ed053</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-01 23:10:35</sys_created_on><sys_id>ce73235207e79010a913f0269c1ed057</sys_id><sys_mod_count>0</sys_mod_count><sys_name>abc</sys_name><sys_package display_value="Shopping List" source="x_140269_shopping">0883fe5207679010a913f0269c1ed08f</sys_package><sys_policy/><sys_scope display_value="Shopping List">0883fe5207679010a913f0269c1ed08f</sys_scope><sys_update_name>sys_sg_item_parameter_ce73235207e79010a913f0269c1ed057</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-01 23:10:35</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>-1558634069</payload_hash>
+        <record_name>abc</record_name>
+        <reverted_from/>
+        <source>c083f29207679010a913f0269c1ed068</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-01 23:10:35</sys_created_on>
+        <sys_id>9db3235207e79010a913f0269c1ed066</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174e66e7f2d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-01 23:10:35</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>d5b32352ace79010ddd8d0bac431d766</update_guid>
+        <update_guid_history>d5b32352ace79010ddd8d0bac431d766:-1558634069</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-01 23:11:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>0434353243d34368972431d2e226d984</sys_id>
+        <sys_metadata>ce73235207e79010a913f0269c1ed057</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abc</sys_name>
+        <sys_package display_value="Shopping List" source="x_140269_shopping">0883fe5207679010a913f0269c1ed08f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0883fe5207679010a913f0269c1ed08f</sys_scope>
+        <sys_scope_delete display_value="">19f2ef27d8a94ad6a7c387a812c4f639</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_ce73235207e79010a913f0269c1ed057</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_ce73235207e79010a913f0269c1ed057">9db3235207e79010a913f0269c1ed066</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-01 23:11:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
